@@ -9,10 +9,10 @@ Ratio of unmarried men to unmarried women over time.
 
 In future, I would like to improve the efficiency of the python code, as it takes a long time to run when the total population becomes too large. Therefore, I have been testing this code with theses parameters:
 
-TOTAL_YEARS = 100 # Years simulation will run.
-GRADUATE_AGE = 16 # Age from which person can marry.
-SAMPLE_SIZE = 80 # Size of intial sample.
-FERTILITY_THRESHOLD = 250 # Higher threshold decreses liklihood of pregrancy.
+ - TOTAL_YEARS = 100 # Years simulation will run.
+ - GRADUATE_AGE = 16 # Age from which person can marry.
+ - SAMPLE_SIZE = 80 # Size of intial sample.
+ - FERTILITY_THRESHOLD = 250 # Higher threshold decreses liklihood of pregrancy.
 
 Increasing these parameters means that the simulation takes a long time to complete.
 
